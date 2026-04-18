@@ -12,7 +12,7 @@ This project demonstrates how to build a spatially-aware solar system viewer for
 - **Glass ornaments** — a floating control panel using `.ornament(attachmentAnchor:)` and `.glassBackgroundEffect()` demonstrates the visionOS chrome model
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/1aYbYY14Cm0)
 
 > This project is **Part 1** of the visionOS Solar System series.
 > 📋 [View the full playlist](https://www.youtube.com/playlist?list=PLbeGXTt3IOd8o7W2dLSzhuFWk_qrIimiW)
