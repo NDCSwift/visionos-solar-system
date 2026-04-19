@@ -11,6 +11,9 @@ This project demonstrates how to build a spatially-aware solar system viewer for
 - **Data-driven multi-window** — `WindowGroup(for: Planet.self)` + `openWindow(value: planet)` shows how to open typed windows from Codable value types
 - **Glass ornaments** — a floating control panel using `.ornament(attachmentAnchor:)` and `.glassBackgroundEffect()` demonstrates the visionOS chrome model
 
+Part 1 of the series can be found here [PART 1 REPO](https://github.com/NDCSwift/SpatialDemo_SwiftUI).
+Part 3 with a volumetric 3D globe (drag-to-rotate, pinch-to-zoom, RealityKit gestures) can be found here [PART 3 REPO](https://github.com/NDCSwift/GlobeView).
+
 ## 📺 Watch on YouTube
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/1aYbYY14Cm0)
 
