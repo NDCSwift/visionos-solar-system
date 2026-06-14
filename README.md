@@ -20,7 +20,7 @@ Part 3 with a volumetric 3D globe (drag-to-rotate, pinch-to-zoom, RealityKit ges
 > This project is **Part 1** of the visionOS Solar System series.
 > 📋 [View the full playlist](https://www.youtube.com/playlist?list=PLbeGXTt3IOd8o7W2dLSzhuFWk_qrIimiW)
 
-> Built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> Built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 ---
 
